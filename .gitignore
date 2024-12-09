@@ -1,0 +1,7 @@
+# Исключаем node_modules
+node_modules/
+
+# Исключаем package-lock.json (если нужно)
+package-lock.json
+.vscode
+coverage
